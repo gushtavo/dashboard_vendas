@@ -12,7 +12,7 @@ O objetivo é analisar o desempenho das vendas ao longo do tempo, identificar os
 - **Ticket Médio por Venda:** R$ 909,80  
 - **Crescimento em relação ao ano anterior:** 58,9%
 - **Filtros disponíveis:** Região e Ano.
-- **⚠️**: Quando não houver nenhum ano selecionado o cálculo é feito sobre o período total das vendas, ou seja, do primeiro ao último ano.
+- **⚠️**: Quando não houver nenhum ano selecionado o cálculo de crescimento é feito sobre o período total das vendas, ou seja, do primeiro ao último ano.
 
 ---
 
