@@ -42,4 +42,4 @@ O objetivo é analisar o desempenho das vendas ao longo do tempo, identificar os
 
 ## 📬 Contato
 
-🔗 [Linkedin](www.linkedin.com/in/gushtavoroberto) | 📧 almeida.gustavo0420@email.com 
+🔗 [Linkedin](www.linkedin.com/in/gushtavoroberto) | 📧 almeida.gustavo0420@gmail.com 
